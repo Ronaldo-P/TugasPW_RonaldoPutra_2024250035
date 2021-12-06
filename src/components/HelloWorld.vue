@@ -10,13 +10,13 @@
     </a>
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#section1">Who am I?</a>
+        <a class="nav-link" href="#login">Masuk</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#section2">Personal Data</a>
+        <a class="nav-link" href="#register">Daftar</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#section3">About Me</a>
+        <a class="nav-link" href="#about">About Me</a>
       </li>
     </ul>
   </div>
@@ -102,4 +102,3 @@ export default {
   }
 }
 </script>
-
